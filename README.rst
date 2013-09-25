@@ -21,5 +21,7 @@ Potential topics to be covered in PythonCLT101:
 Session 0
 ---------
 
+Dictionaries_
+
 .. _Dictionaries:
    https://github.com/pythonclt/python101/blob/master/dictionaries.rst
