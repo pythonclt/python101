@@ -15,3 +15,11 @@ Potential topics to be covered in PythonCLT101:
 - Virtualenv
 - GIL
 - ?
+
+----------
+
+Session 0
+---------
+
+.. _Dictionaries:
+   https://github.com/pythonclt/python101/blob/master/dictionaries.rst
