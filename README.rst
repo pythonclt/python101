@@ -1,8 +1,8 @@
-Like, Read Me
-=============
+Charlotte Python 101
+====================
 
-PythonCLT
----------
+What We Will Learn
+------------------
 
 Potential topics to be covered in PythonCLT101:
 
