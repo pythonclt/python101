@@ -10,6 +10,8 @@ Sequences
 - Lists
 - Tuples
 
+Official list: ``str, unicode, list, tuple, bytearray, buffer, xrange``
+
 Mappings
 --------
 
