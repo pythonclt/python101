@@ -126,6 +126,23 @@ We can also nest loops inside *LC*:
     [x + y for x in 'st' for y in 'aeiouy']
     [(x, x + y) for x in [0,2] for y in range(4)]
 
+Generator Expressions
+---------------------
+
+Use the same syntax as *LC* but with parentheses instead of square brackets,
+and are now known as *GE*. They perform the same computation as *LC*, but do so
+iteratively, such that they do not actually create a list or evaluate the
+expression inside - they create a generator object that produces the values
+upon request.
+
+.. code:: python
+
+    g = (x*10 for x in range(5))
+    g.next()
+
+*GE* can be very handy when dealing with very large lists, as it can vastly
+improve memory use and performance.
+
 Other Comprehensions
 --------------------
 
