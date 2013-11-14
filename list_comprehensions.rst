@@ -141,6 +141,25 @@ Set:
 
     set(open('/tmp/logstash_index_cleaner.py'))
 
+Definitions
+-----------
+
+**list**
+An ordered set of values, where each value is identified by an index. The
+values in a list are called its *elements*.
+
+**map**
+Built-in function that applies a given function to every given item and returns
+a list of results (``map(function, items, ...)``).
+
+**filter**
+Built-in function that creates a list of the objects from a given iterable
+where given function evaluates to true (``filter(function, iterable)``).
+
+**lambda**
+Operator that allows creation of anonymous functions in the form of a valid
+expression.
+
 Questions?
 ----------
 
