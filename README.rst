@@ -25,3 +25,11 @@ Dictionaries_
 
 .. _Dictionaries:
    https://github.com/pythonclt/python101/blob/master/dictionaries.rst
+
+Session 1
+---------
+
+List_Comprehensions_
+
+.. _List_Comprehensions:
+   https://github.com/pythonclt/python101/blob/master/list_comprehensions.rst
